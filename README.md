@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yzaya
-- 👀 I’m interested in learning about open source communities.
-- 🌱 I’m currently learning coding and philosophy. 
-- 💞️ I’m looking to collaborate on business ventures.
+- 👀 I’m interested in learning about technology, software engineering, and open source communities.
+- 🌱 I’m currently learning coding, web development, and economics.
+- 💞️ I’m looking to collaborate on projects for collective decision making and democratic participation. 
 - 📫 How to reach me: email@ikuhle.com
 
 <!---
